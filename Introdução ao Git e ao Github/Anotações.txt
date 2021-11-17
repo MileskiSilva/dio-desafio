@@ -9,3 +9,5 @@ git add . : adiciona o local.
 git commit -m : colocar um comentario.
 git push origin main: enviar os commits para a nuvem.
 ctrl + I: é o comando que limpa a tela do terminal do git.
+reset: limpa a tela do bash mas me permite usar os comando anteriores.
+tab: escreve automaticamente apenas precisando colocar as iniciais
