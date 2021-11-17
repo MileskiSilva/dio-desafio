@@ -1,0 +1,10 @@
+link para download do Git:https://git-scm.com/downloads
+o Git Bash é um terminal extendido para o otimizar o uso do Git
+ 
+Comandos Git: 
+cd: Entrar e sair pasta usar o (.)
+ls: Mostrar os arquivos 
+git status : mostra como esta o repositorio
+git add . : adiciona o local
+git commit -m : colocar um comentario 
+git push origin main: enviar os commits para a nuvem.
