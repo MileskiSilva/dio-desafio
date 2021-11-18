@@ -11,3 +11,11 @@ git push origin main: enviar os commits para a nuvem.
 ctrl + I: é o comando que limpa a tela do terminal do git.
 reset: limpa a tela do bash mas me permite usar os comando anteriores.
 tab: escreve automaticamente apenas precisando colocar as iniciais
+
+Comandos IntelliJ:
+ctlr + shift +f10= rodar o programa.
+shift + f10= rodar o programa direto depois de usar o ctrl+shift+f10 uma vez.
+alt + ins= criar arquivo.
+sout = cria o public class.
+ctrl + shift + /: para comentar tudo selecionado.
+ctrl + barra: comentar apenas uma linha
