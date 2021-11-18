@@ -21,4 +21,4 @@ ctrl + shift + /: para comentar tudo selecionado.
 ctrl + barra: comentar apenas uma linha.
 ctrl + alt + L: arrumar a sintaxe.
 ctrl + d: copia linha.
-ctrl + shift + arrow(up)(down)+mover linha.
+ctrl + shift + arrow(up)(down): mover linha.
