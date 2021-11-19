@@ -11,6 +11,10 @@ git push origin main: enviar os commits para a nuvem.
 ctrl + I: é o comando que limpa a tela do terminal do git.
 reset: limpa a tela do bash mas me permite usar os comando anteriores.
 tab: escreve automaticamente apenas precisando colocar as iniciais
+git push -u origin master: para o primeiro commit 
+git config --global init.defaultBranch main: para deixar a branch padrao em main e não master.
+git remote add origin (https): para colocar seu repositorio no terminal no git
+git init: para criar um repositorio git na sua pasta de arquivos.
 
 Comandos IntelliJ:
 ctlr + shift +f10= rodar o programa.
