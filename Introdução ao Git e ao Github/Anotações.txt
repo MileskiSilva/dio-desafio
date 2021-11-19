@@ -15,6 +15,7 @@ git push -u origin master: para o primeiro commit
 git config --global init.defaultBranch main: para deixar a branch padrao em main e não master.
 git remote add origin (https): para colocar seu repositorio no terminal no git
 git init: para criar um repositorio git na sua pasta de arquivos.
+git push origin: não sei explicar mas isso commita direto sem erro kkkkkk
 
 Comandos IntelliJ:
 ctlr + shift +f10= rodar o programa.
